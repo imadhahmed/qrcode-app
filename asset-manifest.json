@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qrcode-app/static/css/main.22f2b15b.css",
+    "main.js": "/qrcode-app/static/js/main.e209f9bd.js",
+    "static/js/453.543c2994.chunk.js": "/qrcode-app/static/js/453.543c2994.chunk.js",
+    "index.html": "/qrcode-app/index.html",
+    "main.22f2b15b.css.map": "/qrcode-app/static/css/main.22f2b15b.css.map",
+    "main.e209f9bd.js.map": "/qrcode-app/static/js/main.e209f9bd.js.map",
+    "453.543c2994.chunk.js.map": "/qrcode-app/static/js/453.543c2994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f2b15b.css",
+    "static/js/main.e209f9bd.js"
+  ]
+}
