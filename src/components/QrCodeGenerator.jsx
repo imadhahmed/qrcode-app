@@ -42,7 +42,7 @@ function QrCodeGenerator() {
             <div className="qrcode__image">
               <QRCode value={url} size={300} />
             </div>
-            <button onClick={downloadQRCode}>Download QR Code</button>
+            <button onClick={downloadQRCode}>Download QR Code </button>
           </div>
           
         )}
